@@ -47,3 +47,11 @@ section h2 {
     background-color: #ffffff;
     color: #334e7e;
 }
+
+.section-heading {
+    margin: 80px;
+    text-align: center;
+    color: #334e7e; /* Adjust based on your primary color */
+}
+
+
